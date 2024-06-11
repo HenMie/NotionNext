@@ -42,8 +42,8 @@ export function InfoCard(props) {
         <Announcement post={notice} style={{ color: 'white !important' }} />
       </div>
 
-      <div className='flex justify-between'>
-        <div className='flex space-x-3  hover:text-black dark:hover:text-white'>
+      // <div className='flex justify-between'>
+      //   <div className='flex space-x-3  hover:text-black dark:hover:text-white'>
           {/* 两个社交按钮 */}
           // <div className='bg-indigo-400 p-2 rounded-full  transition-colors duration-200 dark:bg-yellow-500 dark:hover:bg-black hover:bg-white'>
           //   <Link href='/about'>
@@ -57,9 +57,9 @@ export function InfoCard(props) {
           //     </Link>
           //   )}
           // </div>
-        </div>
-        <MoreButton />
-      </div>
+        // </div>
+      //   <MoreButton />
+      // </div>
     </Card>
   )
 }
