@@ -12,7 +12,7 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '香旷野奔跑',
+  HEO_HERO_TITLE_1: '向旷野奔跑',
   HEO_HERO_TITLE_2: '使故事发生',
   HEO_HERO_TITLE_3: 'NING RI',
   HEO_HERO_TITLE_4: '关于我',
