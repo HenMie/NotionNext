@@ -55,8 +55,8 @@ export function InfoCard(props) {
           //     <Link href={siteConfig('HEO_INFO_CARD_URL', null, CONFIG)}>
           //       <i className='fab fa-github text-xl' />
           //     </Link>
-            )}
-          </div>
+          //   )}
+          // </div>
         </div>
         <MoreButton />
       </div>
